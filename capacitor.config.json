@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "CouchFolio",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

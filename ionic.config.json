@@ -1,0 +1,8 @@
+{
+  "name": "CouchFolio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "fd9f2065"
+}
